@@ -7,3 +7,4 @@ poder trabajar el proyecto
 pip install -r requeriments.tx 
 
 con el comando anterior bajamos las dependencias necesarias
+# django-crud-master
